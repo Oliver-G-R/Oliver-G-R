@@ -1,4 +1,4 @@
-# ¡Hey Yo soy Oliver👋!  
+# ¡Hey, Yo soy Oliver👋!  
 
 <p align="center">
   Soy estudiante y <b>desarrollador web</b> con una gran pasión por crear cosas nuevas.
